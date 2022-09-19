@@ -1,4 +1,4 @@
-# 💻 Sobre o desafio
+# 💻 About the challenge
 
 
 In this challenge, I must create an application to train what I learned from node.js!
