@@ -1,10 +1,7 @@
 # 💻 Sobre o desafio
 
-Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no Node.js!
 
 In this challenge, I must create an application to train what I learned from node.js!
-
-Essa será uma aplicação para gerenciar tarefas (em inglês *todos*).Será permitida a criação de um usuário com `name` e `username`,bem como fazer o CRUD de *todos*:
 
 This is an application to manage tasks. It will be allowed to create allowed to create user with `name` and `username`, in addition to doing the CRUD.
 
